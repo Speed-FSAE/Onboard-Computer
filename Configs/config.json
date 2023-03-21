@@ -1,0 +1,32 @@
+{
+    "Constants":{
+        "General":{
+            "C" : 0,
+            "comment0" : "constant X position of the roll bar arm"
+        },
+        "Position_of_Bump_Spring_Roll_Rocker_Heave_Spring":{
+            "Rr" : 0, 
+            "comment0" : "radius of the rocker",
+            "phi" : 235,
+            "comment1" : "rockers reference angle"
+        },
+        "Angle_of_Roll_Bar_Arm_from_Horizontal":{
+            "L" : 0,
+            "comment0" : "length of the roll bar control rod",
+            "R_RBA" : 0,
+            "comment1" : "radius of the roll bar arm"
+        },
+        "Heave_Spring_ExtensionCompression":{
+            "L_HS" : 0,
+            "comment0" : "reference Heave Spring Length"
+        },
+        "Bump_Spring_Compression":{
+            "L_BS" : 0,
+            "comment0" : "uncompressed length of the bump spring",
+            "xREF" : 0,
+            "comment1" : "X position of the bump spring mounting point",
+            "yREF" : 0,
+            "comment2" : "Y position of the bump spring mounting point"
+        }
+    }
+}
